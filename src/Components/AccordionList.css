@@ -16,3 +16,7 @@
 .accordion-link:hover {
   background-color: gainsboro;
 }
+.paragraph-text {
+  padding: 8px;
+  font-weight: bold;
+}
